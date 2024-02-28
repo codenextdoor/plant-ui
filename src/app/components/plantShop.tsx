@@ -14,7 +14,7 @@ export default function PlantShop() {
       <div className="">
         <Image
           src={backgroundImage}
-          fill="true"
+          fill={true}
           alt="Background image"
           aria-hidden="true"
         />
